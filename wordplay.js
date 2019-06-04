@@ -11,7 +11,7 @@ var newArray = convertedWords.filter(word => word.length > 3);
 {
   console.log(newArray);
   //outputs only those words whose letters are greater than three
-  console.log(newArray.join("-"));
+  console.log(newArray.join(" "));
   //.join is a javascript method that reverts back the initial data
   //type and the parameters splitted by either space or hyphen or comma depending on your prefered choice
 

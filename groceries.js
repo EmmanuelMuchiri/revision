@@ -14,3 +14,4 @@ sortedItems.forEach(function(item)
   });
 //opening curly brace to mark the beginning of the callback function
 //then output the item and closes the curly brace,parenthesis and the semi colon to mark the end of the program
+//this will output each item separately using forEach method
